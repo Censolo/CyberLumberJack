@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cyberlumberjack/static/css/main.a617e044.chunk.css",
+    "main.js": "/cyberlumberjack/static/js/main.fa455fd6.chunk.js",
+    "main.js.map": "/cyberlumberjack/static/js/main.fa455fd6.chunk.js.map",
+    "runtime-main.js": "/cyberlumberjack/static/js/runtime-main.01e0eefe.js",
+    "runtime-main.js.map": "/cyberlumberjack/static/js/runtime-main.01e0eefe.js.map",
+    "static/js/2.2df1b66a.chunk.js": "/cyberlumberjack/static/js/2.2df1b66a.chunk.js",
+    "static/js/2.2df1b66a.chunk.js.map": "/cyberlumberjack/static/js/2.2df1b66a.chunk.js.map",
+    "static/js/3.e7ee0001.chunk.js": "/cyberlumberjack/static/js/3.e7ee0001.chunk.js",
+    "static/js/3.e7ee0001.chunk.js.map": "/cyberlumberjack/static/js/3.e7ee0001.chunk.js.map",
+    "index.html": "/cyberlumberjack/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/cyberlumberjack/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2df1b66a.chunk.js.LICENSE.txt": "/cyberlumberjack/static/js/2.2df1b66a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cyberlumberjack/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01e0eefe.js",
+    "static/js/2.2df1b66a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.fa455fd6.chunk.js"
+  ]
+}

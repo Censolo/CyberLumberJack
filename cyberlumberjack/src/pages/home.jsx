@@ -10,7 +10,7 @@ function Home() {
     lottie.loadAnimation({
       container: container.current,
       renderer: "svg",
-      loop: false,
+      loop: true,
       autoplay: true,
       animationData: require("../assets/lottie/growing.json"),
     });

@@ -6,13 +6,13 @@ import { Button, Text, HStack } from "@chakra-ui/react";
 const Navbar = () => {
   return (
     <Nav>
-      <HStack>
+      <HStack ml="2" mt="2">
         <img src={logo} alt="logo" width="75px" />
         <Text>Cyber Lumberjack</Text>
       </HStack>
 
       <NavMenu>
-        <Button>Wallet</Button>
+        <Button mr="2">Wallet</Button>
       </NavMenu>
     </Nav>
   );

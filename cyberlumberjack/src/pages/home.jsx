@@ -1,14 +1,17 @@
 import React from "react";
 import { Helmet } from "react-helmet-async";
+import { Center } from "@chakra-ui/react";
 
 function Home() {
   return (
     <div>
       <Helmet>
-        <title>CyberLumberJack</title>
+        <title>Cyber Lumberjack</title>
       </Helmet>
       <div>
-        <h1>Hello World</h1>
+        <Center mt="20">
+          <h1>Animation here</h1>
+        </Center>
       </div>
     </div>
   );

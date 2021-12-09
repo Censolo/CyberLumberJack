@@ -22,7 +22,7 @@ function Home() {
         <title>Cyber Lumberjack</title>
       </Helmet>
       <div>
-        <Center mt="20">
+        <Center mt="12">
           <div className="container" ref={container}></div>
         </Center>
       </div>

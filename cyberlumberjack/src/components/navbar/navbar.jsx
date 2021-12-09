@@ -1,6 +1,6 @@
 import React from "react";
 import { Nav, NavMenu } from "./navbarElement";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo/logo512.png";
 import { Button, Text, HStack } from "@chakra-ui/react";
 
 const Navbar = () => {

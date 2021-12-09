@@ -22,8 +22,12 @@ function Home() {
         <title>Cyber Lumberjack</title>
       </Helmet>
       <div>
-        <Center mt="12">
-          <div className="container" ref={container}></div>
+        <Center>
+          <div
+            style={{ maxHeight: 800, maxWidth: 800 }}
+            className="container"
+            ref={container}
+          ></div>
         </Center>
       </div>
     </div>

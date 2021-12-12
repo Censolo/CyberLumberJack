@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
 
 p {
-  font-family: 'Megrim', cursive;
+  font-family: 'Megrim', cursive; !important
 }
 
 body {

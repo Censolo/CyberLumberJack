@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;600;700&family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
 
 p {
-  font-family: 'Quicksand', sans-serif;
-  font-family: 'Rancho', cursive;
+  font-family: 'Megrim', cursive;
 }
 
 body {
